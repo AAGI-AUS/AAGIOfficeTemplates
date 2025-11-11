@@ -31,7 +31,39 @@ Use these templates when preparing your AAGI reports, presentations, and other d
 
 ## Installation & Usage Instructions
 
-TODO
+The AAGI report and presentation templates for Microsoft Word and Microsoft PowerPoint
+can be installed easily on Windows 11 with the following steps.
+
+1. Download the .dotx and .potx template files from this GitHub repository to your
+   computer (e.g., by clicking the following links):
+   - [AAGI Report.dotx](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Report.dotx)
+   - [AAGI Interim Report.dotx](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Interim%20Report.dotx)
+   - [AAGI Document.dotx](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Document.dotx)
+   - [AAGI PowerPoint Presentation.potx](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20PowerPoint%20Presentation.potx)
+2. Open Microsoft Word and open the _File&rarr;Options_ window. Navigate to the 
+   _Save_ menu and note the _Default personal templates location_, if one is
+   listed, as shown. (If no directory is listed, you can choose whatever
+   directory you like and enter its directory path here to set it as the
+   default templates location for Microsoft Office.)<br><img src="assets/README_graphics/install_wordoptions.png" alt="Find the Custom Office Templates directory png" width="700px"/>
+3. Copy and paste the template files that you downloaded in Step 1 into that
+   default templates location directory.<br><img src="assets/README_graphics/install_templatesdirectory.png" alt="Download the templates to the Templates directory png" width="365px"/>
+4. Close Microsoft Word (as well as any other open Word windows).
+5. Open Word again and it should load the new templates. Navigate to _File&rarr;New_
+   and scroll down to select _Personal_ and the AAGI templates should now appear
+   in the list for you to use.<br><img src="assets/README_graphics/install_wordtemplates.png" alt="Templates appear in the New Document list png" width="700px"/>
+6. Similarly, when you open Microsoft PowerPoint and navigate to _File&rarr;New_,
+   the AAGI Presentation template should appear in the _Personal_ list of
+   templates.<br><img src="assets/README_graphics/install_powerpointtemplates.png" alt="Templates appear in the New Presentation list png" width="503px"/>
+7. Click the template in the list to start a new document using that template.
+
+**Note**: When you first start a new document with the template, dates may
+appear malformed like `0 XXX 0000`, as shown:
+<br><img src="assets/README_graphics/install_dates.png" alt="The Date appears malformed before first save png" width="500px"/><br>This is normal. That `0 XXX 0000` bit
+is the _SaveDate_ field, which does not exist yet until you have saved the document
+for the first time.
+Once you have saved the document, from that point on the field will always show
+the date of the most recent document save, as expected.
+<br><img src="assets/README_graphics/install_dates2.png" alt="After saving the document the date appears normally png" width="500px"/>
 
 ## Acknowledgements & Notices
 
