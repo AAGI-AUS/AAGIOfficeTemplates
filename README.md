@@ -60,7 +60,13 @@ can be installed easily on Windows 11 with the following steps.
    with the name of your University, replace `<AAGI-XX>` with your specific
    AAGI node, and so on).
 
-**Note**: When you first start a new document with the template, dates may
+**Note 1**: The templates use, but _are not bundled with_ (for trademark reasons),
+the Proxima Nova Medium font. For the best aesthetics, it is highly recommended
+that you install the Proxima Nova Medium (OTF) font when using the document and
+presentation templates. AAGI staff should contact the AAGI administration team if
+they need help with getting and installing this font to their computer.
+
+**Note 2**: When you first start a new document with the template, dates may
 appear malformed like `0 XXX 0000`, as shown:
 <br><img src="assets/README_graphics/install_dates.png" alt="The Date appears malformed before first save png" width="500px"/><br>This is normal. That `0 XXX 0000` bit
 is the _SaveDate_ field, which does not exist yet until you have saved the document
