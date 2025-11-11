@@ -55,6 +55,10 @@ can be installed easily on Windows 11 with the following steps.
    the AAGI Presentation template should appear in the _Personal_ list of
    templates.<br><img src="assets/README_graphics/install_powerpointtemplates.png" alt="Templates appear in the New Presentation list png" width="503px"/>
 7. Click the template in the list to start a new document using that template.
+   Replace the placeholder text as appropriate (e.g., replace `<Client>` with the
+   name of the client for who the report is being written, replace `<University>`
+   with the name of your University, replace `<AAGI-XX>` with your specific
+   AAGI node, and so on).
 
 **Note**: When you first start a new document with the template, dates may
 appear malformed like `0 XXX 0000`, as shown:
