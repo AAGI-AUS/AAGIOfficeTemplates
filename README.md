@@ -9,22 +9,22 @@ This repository contains Microsoft Word and PowerPoint templates that AAGI staff
 can use to create documents and presentations which have a consistent AAGI style and
 theming.
 
-|<img src="assets/README_graphics/preview_aagireport.jpg" alt="AAGI report jpg" width="200px"/><br>[AAGI Report](/AAGI%20Report.dotx)|<img src="assets/README_graphics/preview_aagiinterimreport.jpg" alt="AAGI interim report jpg" width="200px"/><br>[AAGI Interim Report](/AAGI%20Interim%20Report.dotx)|<img src="assets/README_graphics/preview_aagidocument.jpg" alt="AAGI document jpg" width="200px"/><br>[AAGI Document](/AAGI%20Document.dotx)|<img src="assets/README_graphics/preview_aagipresentation.png" alt="AAGI presentation png" width="248px"/><br>[AAGI Presentation](/AAGI%20PowerPoint%20Presentation.potx)|
+|<img src="assets/README_graphics/preview_aagireport.jpg" alt="AAGI report jpg" width="200px"/><br>[AAGI Report](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Report.dotx)|<img src="assets/README_graphics/preview_aagiinterimreport.jpg" alt="AAGI interim report jpg" width="200px"/><br>[AAGI Interim Report](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Interim%20Report.dotx)|<img src="assets/README_graphics/preview_aagidocument.jpg" alt="AAGI document jpg" width="200px"/><br>[AAGI Document](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Document.dotx)|<img src="assets/README_graphics/preview_aagipresentation.png" alt="AAGI presentation png" width="248px"/><br>[AAGI Presentation](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20PowerPoint%20Presentation.potx)|
 |:-:|:-:|:-:|:-:|
 
 Use these templates when preparing your AAGI reports, presentations, and other documents.
 
-- **[AAGI Report](/AAGI%20Report.dotx)**: An AAGI-themed template for project 
+- **[AAGI Report](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Report.dotx)**: An AAGI-themed template for project 
   reports. Use this template for the 'large' (i.e., project conclusion) reports, such 
   as major milestone reports for Research & Development investments, or analytics
   reports to clients for Service & Support investments.
-- **[AAGI Interim Report](/AAGI%20Interim%20Report.dotx)**: An AAGI-themed 'small'
+- **[AAGI Interim Report](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Interim%20Report.dotx)**: An AAGI-themed 'small'
   report template, designed for shorter (i.e., 3-4 page) reports. Use this template
   for summary or interim reporting to clients or for investment milestones.
-- **[AAGI Document](/AAGI%20Document.dotx)**: A general AAGI-themed document template.
+- **[AAGI Document](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20Document.dotx)**: A general AAGI-themed document template.
   Use this template for miscellaneous documents such as guides, overviews, 
   checklists, media releases, memos, and others.
-- **[AAGI Presentation](/AAGI%20PowerPoint%20Presentation.potx)**: AAGI-theming for
+- **[AAGI Presentation](https://github.com/AAGI-AUS/AAGIOfficeTemplates/raw/main/AAGI%20PowerPoint%20Presentation.potx)**: AAGI-theming for
   PowerPoint presentation slides. Use this template for presentations showcasing
   your AAGI project work, or when representing the AAGI brand at events.
 
@@ -60,9 +60,9 @@ and positioning for the logos must not be modified without authorisation.
 
 Feedback on the use of the AAGI document and presentation templates is always
 welcome. If you wish to provide feedback on the templates or any related 
-materials, please use the [GitHub Issue Tracker](/issues) for this repository. 
+materials, please use the [GitHub Issue Tracker](https://github.com/AAGI-AUS/AAGIOfficeTemplates/issues) for this repository. 
 Alternatively, get in touch with one of the AAGI-AU-RD-WOP project leads:
 
-- Curtin University: Prof. Adam Sparks (@adamhsparks)
-- University of Queensland: Dr Robert Armstrong (@rnarmstrong71)
-- Adelaide University: Mr Sam Rogers (@rogerssam)
+- Curtin University: Prof. Adam Sparks ([@adamhsparks](https://github.com/adamhsparks))
+- University of Queensland: Dr Robert Armstrong ([@rnarmstrong71](https://github.com/rnarmstrong71))
+- Adelaide University: Mr Sam Rogers ([@rogerssam](https://github.com/rogerssam))
